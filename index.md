@@ -1,9 +1,11 @@
-## Yicong Li (李逸聪)
+## Yicong Li (李逸聪) 
 
 ### Biography
 Yicong Li is currently a PhD student of Data Science and Machine Intelligence ([DSMI](http://dsmi.tech/)) Lab of Advanced Analytics Institute, University of Technology Sydney, under the supervision of [Prof. Guandong Xu](https://sites.google.com/view/guandong-xu) and [Dr. Hongxu Chen](https://sites.google.com/view/hxchen).
 
 She obtained her Master's degree from National University of Defense Technology in 2019.
+
+Email: Yicong.li[at]student.uts.edu.au
 
 ### Research Interest
 Her current research is focusing on explainable machine learning, especially the application in the recommendation area. The planning thesis title is Towards Graph-based Explainable Recommender Systems.
@@ -12,8 +14,6 @@ Her current research is focusing on explainable machine learning, especially the
 - Causal learning
 - Graph neural networks
 - Natural language processing 
-
-Email: Yicong.li[at]student.uts.edu.au
 
 
 
@@ -39,4 +39,5 @@ Tutorial at [WISE 2021](http://www.wise-conferences.org/2021/) - Graph Mining in
 ### Awards
 - UTS Ph.D Scholarship (Tuition + Stipend)
 - National Scholarship for Postgraduate
+- Vice-Chancellor's Graduate Research Student Conference Fund
 
