@@ -7,6 +7,8 @@ She obtained her Master's degree from National University of Defense Technology 
 
 Email: Yicong.li[at]student.uts.edu.au
 
+
+
 ### Research Interest
 Her current research is focusing on explainable machine learning, especially the application in the recommendation area. The planning thesis title is Towards Graph-based Explainable Recommender Systems.
 - Explainability
@@ -17,7 +19,7 @@ Her current research is focusing on explainable machine learning, especially the
 
 
 
-### Publications
+### Publications ([Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=a-uKBooAAAAJ))
 1. **Yicong Li**, Hongxu Chen, Xiangguo Sun, Zhenchao Sun, Lin Li, Lizhen Cui, Philip S. Yu, Guandong Xu. "[Hyperbolic Hypergraphs for Sequential Recommendation](https://arxiv.org/pdf/2108.08134)". The 30th ACM International Conference on Information and Knowledge Management (CIKM 2021), Nov, 2021.
 2. Hongxu Chen, **Yicong Li**, Xiangguo Sun, Guandong Xu and Hongzhi Yin. "[Temporal Meta-path Guided Explainable Recommendation](https://arxiv.org/pdf/2101.01433)". The 14th ACM International WSDM Conference (WSDM 2021), March, 2021. (equally contribution with Hongxu Chen)
 3. **Yicong Li**, Dawei Feng, Menglong Lu, Dongsheng Li. "[A Distributed Topic Model for Large-Scale Streaming Text](https://www.researchgate.net/publication/335314189_A_Distributed_Topic_Model_for_Large-Scale_Streaming_Text)". The 12th International Conference on Knowledge Science, Engineering and Management (KSEM 2019), Auguest, 2019.
