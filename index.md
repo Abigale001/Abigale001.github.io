@@ -5,7 +5,7 @@ Yicong Li is currently a PhD student of Data Science and Machine Intelligence ([
 
 She obtained her Master's degree from National University of Defense Technology in 2019.
 
-Email: Yicong.li[at]student.uts.edu.au
+
 
 
 
@@ -43,3 +43,6 @@ Tutorial at [WISE 2021](http://www.wise-conferences.org/2021/) - Graph Mining in
 - National Scholarship for Postgraduate
 - Vice-Chancellor's Graduate Research Student Conference Fund
 
+### Contact Me
+- Email: Yicong.li[at]student.uts.edu.au
+- Cell phone: +86 17153183199
