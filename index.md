@@ -3,7 +3,7 @@
 ### Biography
 Yicong Li is currently a PhD student of Data Science and Machine Intelligence ([DSMI](http://dsmi.tech/)) Lab of Advanced Analytics Institute, University of Technology Sydney, under the supervision of [Prof. Guandong Xu](https://sites.google.com/view/guandong-xu) and [Dr. Hongxu Chen](https://sites.google.com/view/hxchen).
 
-She obtained her Master's degree from National University of Defense Technology in 2019.
+She obtained her Master's degree from National University of Defense Technology in Dec, 2019.
 
 
 
