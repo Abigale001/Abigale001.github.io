@@ -1,9 +1,9 @@
 ## Yicong Li (李逸聪) 
 
 ### Biography
-Yicong Li is currently a second-year PhD student of Data Science and Machine Intelligence ([DSMI](http://dsmi.tech/)) Lab of Advanced Analytics Institute, University of Technology Sydney, under the supervision of [Prof. Guandong Xu](https://sites.google.com/view/guandong-xu) and [Dr. Hongxu Chen](https://sites.google.com/view/hxchen).
+Yicong Li is currently a second-year PhD student of Data Science and Machine Intelligence ([DSMI](http://dsmi.tech/)) Lab of Advanced Analytics Institute, University of Technology Sydney, under the supervision of [Prof. Guandong Xu](https://sites.google.com/view/guandong-xu), [Dr. Hongxu Chen](https://sites.google.com/view/hxchen) and [Dr. Xiangguo Sun](https://xiangguosun.mystrikingly.com/).
 
-She obtained her Master's degree from National University of Defense Technology in Dec, 2019. The supervisor was Prof. Dongsheng Li.
+She obtained her Master's degree from National University of Defense Technology in Dec, 2019. The supervisor was Prof. Dongsheng Li and A/Prof. Dawei Feng.
 
 
 
